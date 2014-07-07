@@ -1,0 +1,49 @@
+/* fonts */
+
+@serifFont:			'adobe-garamond-pro';
+@sansFont:			'brandon-grotesque';
+@altSansFont:		'freight-sans-pro';
+
+.sans(){
+	font-family: @sansFont, sans-serif;	letter-spacing: 0em;
+	text-rendering: optimizelegibility;
+	-webkit-font-smoothing: antialiased;
+}
+
+.altSans(){
+	font-family: @altSansFont, sans-serif;	letter-spacing: 0em;
+	text-rendering: optimizelegibility;
+	-webkit-font-smoothing: antialiased;
+}
+
+.serif(){
+	font-family: @serifFont, serif;	letter-spacing: 0em;
+	text-rendering: optimizelegibility;
+	-webkit-font-smoothing: antialiased;
+}
+
+.thin(){
+	font-weight: 100;
+}
+
+.light(){
+	font-weight: 300;	
+}
+
+.regular(){
+	font-weight: 400;
+}
+
+.bold(){
+	font-weight: 500;	
+}
+
+body {
+	.sans; font-weight: 400;
+}
+
+h1, h2, h3, h4 {
+	.bold;	
+}
+
+/* typography */

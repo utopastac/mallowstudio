@@ -1,0 +1,82 @@
+/* reusable style classes */
+
+/* 
+
+TYPOGRAPHY
+
+*/
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+	line-height: 1.2em;
+	font-style: normal;
+	font-weight:normal;
+	text-rendering: optimizeLegibility;
+	color: @greyA;
+	text-transform: uppercase; letter-spacing: 2px;
+}
+
+
+h1 {
+	.light;
+}
+
+h2 {
+	.bold;
+}
+
+.serifItalic(){
+	font-style: italic;
+	.serif;
+	letter-spacing: 0;
+	text-transform: none;
+}
+
+h2, h3, h4 {
+	
+}
+
+h3 {
+	
+}
+
+h4 {
+	
+}
+
+p, li {
+	.size(16);
+}
+
+a {
+	color: @activeColour; text-decoration: none;
+	
+	&:hover {
+		color: @black; text-decoration: underline;	
+	}
+
+	&:active {
+		text-decoration: none;	
+	}
+}
+
+a.postTitle {
+	color: @black; .size(25); text-transform: uppercase; letter-spacing: 2px;
+}
+
+p {
+	line-height: 1.7; color: @greyA;	
+}
+
+p.date { .size(12); margin-bottom: 4px; color: @greyC; }
+
+.current {
+	cursor: default !important;
+}
+
+/* FULL WIDTH IMAGES */
+
+img.full {
+ width: 100%; 
+}

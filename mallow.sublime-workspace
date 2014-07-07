@@ -1,0 +1,188 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/peter/Dropbox/mallow_studio/css/library.less",
+		"/Users/peter/Dropbox/mallow_studio/css/styles.less",
+		"/Users/peter/Dropbox/mallow_studio/functions.php",
+		"/Users/peter/Dropbox/mallow_studio/index.php",
+		"/Users/peter/Dropbox/mallow_studio/styles.css",
+		"/Users/peter/Dropbox/Toy/website_phase_1/html/environment.html",
+		"/Users/peter/Dropbox/Toy/website_phase_1/html/css/dev/structure.less",
+		"/Users/peter/Dropbox/Toy/website_phase_1/html/css/dev/slide_elements.less",
+		"/Users/peter/Dropbox/Toy/website_phase_1/html/css/dev/slides.less",
+		"/Users/peter/Dropbox/Toy/website_phase_1/html/index.html",
+		"/Users/peter/Dropbox/Toy/website_phase_1/html/css/dev/styles.less",
+		"/Users/peter/Dropbox/port_2012/html/wp/DigitalDesign_2014/header.php",
+		"/Users/peter/Dropbox/port_2012/html/wp/DigitalDesign_2014/single.php",
+		"/Users/peter/Dropbox/port_2012/html/wp/DigitalDesign_2014/style-dev/styles.less",
+		"/Users/peter/Dropbox/port_2012/html/wp/DigitalDesign_2014/style.css",
+		"/Users/peter/Dropbox/port_2012/html/wp/DigitalDesign_2014/footer-tag.php",
+		"/Users/peter/Dropbox/port_2012/html/wp/DigitalDesign_2014/footer.php",
+		"/Users/peter/Dropbox/port_2012/html/wp/DigitalDesign_2014/footer-category.php",
+		"/Users/peter/Dropbox/port_2012/html/wp/DigitalDesign_2014/scripts/jquery.matchHeight.js",
+		"/Users/peter/Dropbox/port_2012/html/wp/DigitalDesign_2014/js/jquery.fill.js",
+		"/Users/peter/Dropbox/Toy/site/html/css/styles.less"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getFirstI",
+			"get_first",
+			"homeBlogC",
+			".gallery-item",
+			"wrapper",
+			"line-h",
+			".size",
+			"h1",
+			"icon-long-arrow-down icon-2x\"",
+			"fa--",
+			"fa-icon",
+			"icon-long-arrow-right icon-large",
+			".mixin",
+			".skills",
+			".block",
+			"mobile-sc",
+			".thumbnail",
+			".block",
+			"sideColu",
+			"nav"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fa fa-long-arrow-down fa-2x\"",
+			"fa-",
+			"fa fa-icon-long-arrow-right fa-2x"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.798909090909,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}

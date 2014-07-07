@@ -1,0 +1,40 @@
+/* colours */
+
+
+@black:			#000D1F;
+@white:			#FFFFFF;
+@greyA:			#333332;
+@greyB:			#585858;
+@greyC:			#B3B3B1;
+@greyD:			#D4D4D4;
+@greyE:			#F4F4F4;
+
+@greyText:		#737475;
+@activeColour:	#44A38B;
+
+/* sizes */
+
+@navHeight:		60px;
+@borderWidth:	5px;
+@borderRadius:	5px;
+@boxShadow:		0px 1px 0px fadeout(@black, 85%);
+@innerShadow:	inset 0px 1px 0px fadeout(@black, 70%);
+@textShadow:	0px 1px 1px fadeout(@black, 40%);
+
+/* typography */
+
+/* Media Queries */
+
+@mq-highdensity: ~"only screen and (-webkit-min-device-pixel-ratio: 1.5) and (min-width: 751px)",
+              ~"only screen and (min--moz-device-pixel-ratio: 1.5) and (min-width: 751px)",
+              ~"only screen and (-o-min-device-pixel-ratio: 3/2) and (min-width: 751px)",
+              ~"only screen and (min-device-pixel-ratio: 1.5) and (min-width: 751px)";
+
+@mq-smallest: ~"only screen and (min-width: 0px) and (max-width: 399px)";		  
+@mq-small: ~"only screen and (min-width: 0px) and (max-width: 750px)";
+@mq-medium: ~"only screen and (min-width: 751px) and (max-width: 1079px)";
+@mq-large: ~"only screen and (min-width: 1080px)";
+
+@mq-smallHeight: ~"only screen and (max-height: 650px)";
+@mq-iPad: ~"only screen and (min-device-width : 768px) and (max-device-width : 1024px)";
+@mq-iPad1: ~"only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (-webkit-min-device-pixel-ratio: 1)";
